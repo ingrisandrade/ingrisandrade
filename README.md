@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! Eu sou a Ingris Andrade
 
-<!--
-**ingrisandrade/ingrisandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estudo Desenvolvimento Web na Trybe
+- 🌱 O curso tem a duração de 1 ano e estou no 1° mês
+- 😄 Pronomes: ela/dela
+- ⚡ Curiosidade: Git e GitHub está sendo o bloco mais desafiador para mim
 -->
+
+<div>
+<a href="https://github.com/ingrisandrade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ingrisandrade&show_icons=true&theme-dracula&incude_all_commits=true&count_private=true"/>
+
+<a href="https://github.com/ingrisandrade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrisandrade&layout=compact&langs_count-16&theme=dracula"/>
+</div>
