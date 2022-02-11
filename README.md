@@ -3,7 +3,7 @@
 - 🔭 Atualmente estudo Desenvolvimento Web na Trybe
 - 🌱 O curso tem a duração de 1 ano e estou no 1° mês
 - 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: Git e GitHub está sendo o bloco mais desafiador para mim
+- ⚡ Curiosidade: Adoro café!
 -->
 
 <div>
