@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ingris Andrade, estudante de Desenvolvimento Web!
 
-- 🔭 Atualmente estudo Desenvolvimento Web na Trybe
-- 🌱 O curso tem a duração de 1 ano e estou no 1° mês
+- 🔭 Atualmente estudo Desenvolvimento Web 
+- 🌱 Sou uma sementinha
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: Adoro café!
 -->
