@@ -3,7 +3,6 @@
 - 🔭 Currently studying Web Development
 - 🌱 I'm a seed
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love coffee!
 -->
 
 <div align="center">
