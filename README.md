@@ -10,9 +10,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ingrisandrade&bg_color=0d1117&color=FFB6C1&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- ![Snake animation](https://github.com/ingrisandrade) -->
-
-<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/ingrisandrade/ingrisandrade/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <div align="center">
   <a href="https://github.com/ingrisandrade">
